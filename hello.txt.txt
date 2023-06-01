@@ -1,0 +1,4 @@
+JDK
+IntelliJ IDE
+Git
+Maven
