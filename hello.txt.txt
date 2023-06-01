@@ -2,3 +2,8 @@ JDK
 IntelliJ IDE
 Git
 Maven
+
+Git comments
+git init
+git add
+git push
